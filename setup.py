@@ -1,5 +1,5 @@
 """
-FOMMScool
+fommscool
 Integrate package for MolSSI wrkshop at FOMMS 2018
 """
 from setuptools import setup

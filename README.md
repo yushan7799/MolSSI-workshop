@@ -1,7 +1,7 @@
 FOMMScool
 ==============================
 [//]: # (Badges)
-[![Travis Build Status](https://travis-ci.org/yushan7799/FOMMScool.png)](https://travis-ci.org/yushan7799/FOMMScool)
+[![Travis Build Status](https://travis-ci.org/yushan7799/MolSSI-workshop.png)](https://travis-ci.org/yushan7799/MolSSI-workshop)
 
 Integrate package for MolSSI wrkshop at FOMMS 2018
 
